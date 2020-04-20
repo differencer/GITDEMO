@@ -1,2 +1,6 @@
 4343434343git 
+<<<<<<< HEAD
 b2b2b2b2b2b2b2b2
+=======
+b1b1b1b1b1b1b
+>>>>>>> master
